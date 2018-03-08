@@ -1,0 +1,15 @@
+Condiciones para proyecto Mario Bros:
+
+1. Recorrido completo 
+2. Sin crecimiento, flores, etc. 
+3. No atajos
+4. Utilizar Etiquetas <Canvas>
+5. Presentar Enemigos 
+6. Fecha de Entrega Abril 5, 2018
+
+
+Fuentes:
+Usar Mario Universe para sprites y mundos:
+http://www.mariouniverse.com/maps/nes/smb
+
+https://gist.github.com/1wErt3r/4048722
