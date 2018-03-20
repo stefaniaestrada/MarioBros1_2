@@ -14,3 +14,5 @@ Usar Mario Universe para sprites y mundos:
 http://www.mariouniverse.com/maps/nes/smb
 
 https://gist.github.com/1wErt3r/4048722
+
+Spreadsheet de Mario
