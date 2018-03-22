@@ -12,6 +12,7 @@ Condiciones para proyecto Mario Bros:
 Fuentes:
 Usar Mario Universe para sprites y mundos:
 http://www.mariouniverse.com/maps/nes/smb
+https://www.spriters-resource.com/fullview/20594/?source=genre
 
 https://gist.github.com/1wErt3r/4048722
 
